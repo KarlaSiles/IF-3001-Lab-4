@@ -1,3 +1,3 @@
-### Lab 4
-#### Integrantes
+## Lab 4
+### Integrantes:
 * Karla Siles
